@@ -1,0 +1,1 @@
+webpackJsonp([25,28,34],{692:function(e,t,l){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var a,u=l(1),n=(a=u)&&a.__esModule?a:{"default":a};t["default"]=function(e){return n["default"].createElement("div",null,n["default"].createElement("span",{style:{fontSize:"40px"}},"Hello ! This id Page of OuterData!"))}}});

@@ -1,0 +1,1 @@
+webpackJsonp([27,28,34],{688:function(e,t,l){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var a,n=l(1),u=(a=n)&&a.__esModule?a:{"default":a};t["default"]=function(e){return u["default"].createElement("div",null,u["default"].createElement("span",{style:{fontSize:"40px"}},"Hello ! This id Page of DataReveal!"))}}});
